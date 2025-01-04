@@ -1,0 +1,7 @@
+﻿{
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLScka9FhaPdAnH8wkApLky0uR-V0e9By_PUAAOfsuHOenIQ14g", //example, grab this from network tab in browser, this should be the submit URL (you gonna have to do 1 manual sumittion of the form to get this)
+  "data": "entry.1594619825=Option+1&entry.2015680428=Option+1&entry.1594619825_sentinel=&entry.2015680428_sentinel=&fvv=1&partialResponse=%5Bnull%2Cnull%2C%22733555109143177596%22%5D&pageHistory=0&fbzx=733555109143177596", //example, grab this from network tab in browser, this should be the submitted data (you gonna have to do 1 manual sumittion of the form to get this)
+  "mode": 1, //1 = no code, 2 = code needed
+  "captchPageData": "",
+  "phrase": "Invalid Captcha"
+}
